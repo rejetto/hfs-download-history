@@ -3,6 +3,7 @@
 exports.description = "Tracks completed downloads and shows per-entry history in file menu"
 exports.version = 0.1
 exports.apiRequired = 8.89 // openDb
+exports.preview = ["https://github.com/user-attachments/assets/77e05b39-af9d-42ce-a700-4eefca8e559f"]
 
 exports.configDialog = {
     sx: { maxWidth: '26em' },
